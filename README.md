@@ -1,4 +1,3 @@
-# Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 # **Ex. No: 01**
 # **Image Handling and Pixel Transformations Using OpenCV**
 
