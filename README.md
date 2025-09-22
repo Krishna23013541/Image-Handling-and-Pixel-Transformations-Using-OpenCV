@@ -1,4 +1,10 @@
 # Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# **Ex. No: 01**
+# **Image Handling and Pixel Transformations Using OpenCV**
+
+# **Name: KRISHNA KUMAR R**   
+# **Reg. No: 212223230107**
+
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
 
